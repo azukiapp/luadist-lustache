@@ -1,0 +1,13 @@
+name = "lustache"
+version = "1.3"
+
+desc = "Mustache templates for Lua"
+author = "Olivine Lbas"
+license = "MIT/X11"
+url = "http://olivinelabs.com/lustache"
+maintainer = "Everton A Ribeiro"
+repository = "https://github.com/Olivine-Labs/lustache"
+
+depends = {
+  "lua >= 5.1",
+}
